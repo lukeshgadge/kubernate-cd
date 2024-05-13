@@ -1,2 +1,0 @@
-# kubernate-cd
-kubernate-cd
